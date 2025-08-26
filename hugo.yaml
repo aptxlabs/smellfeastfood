@@ -1,0 +1,49 @@
+baseURL: "https://aptxlabs.github.io/smellfeastfood/"
+languageCode: "en-us"
+title: "Smell Feast Food"
+theme: "hugo-serifed-theme"
+
+# Menus
+menu:
+  main:
+    - name: "Home"
+      url: "/"
+      weight: 1
+    - name: "Services"
+      url: "/services/"
+      weight: 2
+    - name: "Team"
+      url: "/team/"
+      weight: 3
+    - name: "Contact"
+      url: "/contact/"
+      weight: 4
+
+# Params for theme
+params:
+  google_analytics_id: ""
+  favicon: "favicon-32x32.svg"
+
+  logo:
+    mobile: "images/logo/logo-mobile.svg"
+    mobile_height: "36px"
+    desktop: "images/logo/logo.svg"
+    desktop_height: "36px"
+    alt: "SmellFeast Food"
+
+  fonts:
+    google_fonts: "https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600&family=Source+Sans+Pro:wght@400;700&display=swap"
+    heading: "Playfair Display"
+    base: "Source Sans Pro"
+
+  colors:
+    primary: "#f24088"
+    black: "#2f2f41"
+    white: "#ffffff"
+    white_offset: "#f6f7ff"
+    grey: "#5C5A5A"
+
+  seo:
+    meta_twitter_site: "@smellfeastfood"
+    meta_twitter_creator: "@smellfeastfood"
+    meta_og_image: "images/og-image.png"

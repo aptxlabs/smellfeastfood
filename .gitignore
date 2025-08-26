@@ -1,0 +1,9 @@
+# Hugo build output
+/public/
+/resources/_gen/
+
+# Node dependencies (if any)
+/node_modules/
+
+# Hugo generated metadata
+/hugo_stats.json
