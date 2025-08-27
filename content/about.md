@@ -1,52 +1,29 @@
 ---
-title: 'About'
+title: 'About Us'
 date: 2018-02-22T17:01:34+07:00
 ---
 
-Lorem markdownum aequalis strigis. _Saetigeri iubeas_, vultu huic alvum nondum
-de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
-crimen habet Priamum nec.
+Smell feast food services private limited incorporated in 2019. Smell feast foods focusing on providing food services. With immense experience in the food industry, smell feast foods are a leading exporter of all kinds of indian spices, pulses, grains, fruits, vegetables, and many more, to a number of destinations around the globe. With several partnerships with buyers across multiple countries, we have grown to be among the go-to companies for food export from india.
 
 ![About Us](/images/smartworks-coworking-cW4lLTavU80-unsplash.jpg)
 
-## Ne verba patulosque numen vix libet
+# Our Mission
 
-Agitabitur signa lympha; non lacunae, mox cum tumulis quoque triste dictis.
-Ignibus inpatiens explorat, te tegens _ferro nocere haud_, et Dulichium tui
-male! Quo sed [fuit flexit et](#vexant-achivi) hic die solido, gloria?
+To cultivate, manufacture, process and serve best in class food retaining freshness and hygiene, fit for daily consumption. 
 
-1. Cum det dixit Parcarum qui spemque est
-2. Exit ex huic
-3. Quod consiste agitataque claustraque vicina videt lacertis
-4. Loquor videt
-5. Ardua non igne caelesti coniugis cognovi diversorum
-6. Per nunc pariterque saeva vindicet
+# Our Vision
 
-Locus evicit loquuntur Tyrrhena omnes, obstipui pugnabant temptavit Phoco _vati_
-dabant deus. Memorata haberet sepulcrales gentisque dum sic, in flumina templa!
-Se domus passa verum tenebrisque auras nil vix quae quidem, certe videri somnus
-esse iam feres mortis Plurima.
+A globally recognized food company nourishing every day routine.
 
-## Postquam tamen
+# Who We Are?
 
-Et nec ingentem est minus faciunt praecipue posse auctoremque sedes transmittere
-et pedes miratur erat animaeque. Tellus admonuit humanam funes, sagittis et
-licet! Inserui quamvis Clymeni.
+We are a group of young and enthusiastic individuals who have come together for a single goal of being a global leader in food trading. We believe that india is known for our spices and food exports is key to our country's growth. Prioritizing in exporting Indian spices and other food products, we are also analysts and researchers who possess an up-to-date global food market database to help you.
 
-- Parens est studiisque interea
-- Pro istis mediis carnes iste nec imperat
-- Te vocas orat nisi quantumque castra
-- Gestumque crepuscula esse videntur coegit
-- Ambo videtque gerat aquae ferens vagina
-- Adde leviter faciam tetigisse regunt concava in
+# What We Do?
 
-Superi monilia omnes Cyprio Scylla cibos punica quae succincta pallent de
-incubat hostes montibus, de moderato efficiet vulnere. Letum Atalanta Pallas,
-vis, saxo recepta [membra contractosque](#fati) remigis [vulnere vetus
-parte](#dissipat) indignata supera.
+We provide customers with the service of spices export from india. We also understand the demand for indian food, which is why we also offer all kinds of food export from india. From helping you find the right buyers to packaging your food and sending it off, our complete services will ensure that you face absolutely no difficulties. Be it gulf, middle-east, or wherever you want the food to be exported, we make sure that the job is done.
 
-Quantum auxilium datus; sed pineta et, iuvenes redito; credas mensae, meum. Mane
-iuro nec est a iamque est vestigia deum chelydri me bene contra, Ausoniae inopem
-et eripiat, gnato. Carpit magno Pharsalia concursibus illic caestibus pariter
-somnus, fortius ante ille. Superasse induit _celare_ cadunt, ut Armeniae per
-tamen lentis spectat, Titania est animo.
+# Certifications
+
+When it comes to food handling and export, maintaining high levels of hygiene. Quality and safety are crucial this is why, at Smell Feast, we meet international food safety and quality standards through various quality checks and following strict protocols throughout the process. This has allowed us to be accredited to a number of quality and food safety certifications. Being accredited to TPCI, APEDA, and other certifications, we make sure the entire process meets the top quality and food safety standards.
+
