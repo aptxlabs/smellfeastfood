@@ -56,4 +56,4 @@ params:
   seo:
     meta_twitter_site: "@smellfeastfood"
     meta_twitter_creator: "@smellfeastfood"
-    meta_og_image: "images/logo/logo.webp"
+    meta_og_image: "images/logo/og-image.webp"
