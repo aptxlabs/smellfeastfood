@@ -3,7 +3,7 @@ title: 'About Us'
 date: 2018-02-22T17:01:34+07:00
 ---
 
-Smell feast food services private limited incorporated in 2019. Smell feast foods focusing on providing food services. With immense experience in the food industry, smell feast foods are a leading exporter of all kinds of indian spices, pulses, grains, fruits, vegetables, and many more, to a number of destinations around the globe. With several partnerships with buyers across multiple countries, we have grown to be among the go-to companies for food export from india.
+Smell Feast Food Services Private Limited incorporated in 2019. Smell feast foods focusing on providing food services. With immense experience in the food industry, smell feast foods are a leading exporter of all kinds of indian spices, pulses, grains, fruits, vegetables, and many more, to a number of destinations around the globe. With several partnerships with buyers across multiple countries, we have grown to be among the go-to companies for food export from india.
 
 ![About Us](/images/smartworks-coworking-cW4lLTavU80-unsplash.jpg)
 
