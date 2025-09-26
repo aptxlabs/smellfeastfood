@@ -2,7 +2,7 @@
 title: "Sayed Furkhan"
 date: 2018-11-19T10:47:58+10:00
 draft: false
-image: "images/team/peter-van-eijk-711986-unsplash.jpg"
+image: "images/team/sayed-furkhan.png"
 jobtitle: "Director"
 linkedinurl: "https://www.linkedin.com/example2"
 promoted: true
