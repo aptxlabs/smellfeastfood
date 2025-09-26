@@ -4,7 +4,26 @@ date: 2018-02-22T17:01:34+07:00
 layout: contact
 ---
 
-Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae crimen habet Priamum nec.
+---
+
+## Address
+**Smell Feast Food**  
+Plot No. 33  
+Farhat Nagar  
+Aurangabad – 431001  
+Maharashtra 🇮🇳
+
+---
+
+## Phone Numbers
+- [+91-9096864704](tel:+919096864704)  
+- [+91-7402367777](tel:+917402367777)  
+- [+91-9923960162](tel:+919923960162)  
+
+---
+
+## Opening Hours
+
 
 | Day       | Opening Hours   |
 | --------- | --------------- |
